@@ -1,0 +1,36 @@
+.heading {
+  color: rgb(46, 46, 196);
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+.ipsum {
+  color: rgb(221, 23, 23);
+}
+.user_action {
+  display: flex;
+  justify-content: center;
+}
+input[type='range'] {
+  margin-left: 10px;
+}
+.btn {
+  color: #000;
+  margin-left: 10px;
+  padding: 5px;
+  font-weight: bold;
+}
+.btn:hover {
+  background-color: #0075ff;
+  color: #fff;
+  font-weight: bold;
+  border: 1px solid #000;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}
+.result {
+  width: 70vw;
+  margin: 30px auto;
+}
